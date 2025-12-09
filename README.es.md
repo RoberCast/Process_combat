@@ -14,7 +14,7 @@ Además, se crea un script en bash llamado *run_processCombat.sh* que hace lo si
 ## Instrucciones
 Para ejecutar *process combat*, hay que copiar los archivos *father.c*, *child.c* y *run_processCombat.sh* a una carpeta, a elección del usuario. Entonces, desde la terminal del sistema operativo se ejecuta el comando *./run_processCombat.sh*.
 
-## Imágen de demostración
+## Imagen de demostración
 En la siguiente imagen se muestra una ejecución de *process combat*.
 
 ![ejecucion_processCombat](Images/processCombat.jpg)
