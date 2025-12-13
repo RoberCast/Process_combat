@@ -12,7 +12,7 @@ Además, se crea un script en bash llamado *run_processCombat.sh* que hace lo si
 * Al terminar la ejecución del comando cat, borra todos los archivos ejecutables creados y el fichero FIFO *result*, dejando solo los ficheros fuente *father.c* y *child.c*.
 
 ## Instrucciones
-Para ejecutar *process combat*, hay que copiar los archivos *father.c*, *child.c* y *run_processCombat.sh* a una carpeta, a elección del usuario. Entonces, desde la terminal del sistema operativo se ejecuta el comando *./run_processCombat.sh*.
+Para ejecutar *process combat*, hay que copiar los archivos *father.c*, *child.c* y *run_processCombat.sh* a una carpeta, a elección del usuario. Entonces, desde la terminal del sistema operativo se ejecuta el comando `./run_processCombat.sh`.
 
 ## Imagen de demostración
 En la siguiente imagen se muestra una ejecución de *process combat*.
