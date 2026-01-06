@@ -78,7 +78,7 @@ void main(int argc, char *argv[])
     /* Resets the semaphore */ 
     if((sem=semget(llave, 1, 0600)) == -1)
     {
-      perror("Fallo en semget");
+      perror("Semget failure");
       exit(1);
     }
 
